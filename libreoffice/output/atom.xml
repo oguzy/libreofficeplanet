@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>LibreOfis Gezegeni</title>
+	<link rel="self" href="http://planet.libreoffice.org.tr/atom.xml"/>
+	<link href="http://planet.libreoffice.org.tr/"/>
+	<id>http://planet.libreoffice.org.tr/atom.xml</id>
+	<updated>2014-01-04T19:06:54+00:00</updated>
+	<generator uri="http://www.planetplanet.org/">Planet/2.0 +http://www.planetplanet.org</generator>
+
+	<entry xml:lang="tr-TR">
+		<title type="html">Neler Yap-a-mıyorum…</title>
+		<link href="http://blog.bluzz.net/neler-yap-a-miyorum/"/>
+		<id>http://blog.bluzz.net/?p=2055</id>
+		<updated>2014-01-03T21:20:04+00:00</updated>
+		<content type="html">&lt;p&gt;2013 senesinin son çeyreği benim için zaman yönetimi açısından çok verimsiz geçen bir dönem oldu. Son üç ayda doğrusu elle tutulur pek bir şey yapamadım, daha doğrusu neticelendiremedim.&lt;/p&gt;
+&lt;p&gt;Aslında durum şu ki, ahtapot gibi onlarca işin ucundan tutmuş durumdayım. Ama hepsini çekip çevirecek gücüm elbette yok. Biraz daha organize olabilmek adına yapılacaklar listeleriyle durumu toparlamaya çalıştım ama gidiş bu ya, bu sefer de listeler kabardı, yeni listeler vs. vs&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Tabi iş, doktora bir yandan bir yandan da insanın kendine zaman ayırması denklemin diğer tarafında ise hobim olan özgür yazılım -ağırlıklı olarak LibreOffice- beni epeyce yorgun kıldı.&lt;/p&gt;
+&lt;p&gt;Sırf LibreOffice için yapılacak listelerimi tamamlamak için en az 20-25 gün tam mesai uğraşabileceğim onca iş var. Diğer taraftan da ödev ve okulla ilgili olan kitaplar hariç bir kitap bitirebilmiş değilim. Bir yandan da Sezai&amp;#8217;nin &lt;a href=&quot;http://ilizarovgunlugu.wordpress.com/&quot; target=&quot;_blank&quot;&gt;İlizarov Günlüğü&amp;#8217;nü&lt;/a&gt; e-kitap haline dönüştürmesine yardımcı olmak için editörlük yapma işi var ki kaç aydır zaman ayıramadım&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Zaman gerçekten izafi bir kavram, yıllar geçtikçe daha hızlı akıyor gibi. Tam nerede duymuştum hatırlamıyorum ama yaklaşım şöyle bir sözdü &lt;strong&gt;&lt;em&gt;&amp;#8220;Hayatın ne kadar yoğunsa o kadar iş yapabilmişsin demektir.&amp;#8221;&lt;/em&gt;&lt;/strong&gt; Bu minvalde hep düşünüyorum, &amp;#8220;zaman yok&amp;#8230; zaman yok&amp;#8230; az zaman bulayım öyle yaparım&amp;#8221; diye işleri öteleye öteleye aslında birbirinden bağımsız ve kopuk onca boş zamanı değerlendirememişim&amp;#8230; Oysa geriye dönüp baktığımda bağımsız ve kopuk zamanı çok heba ettiğimi daha iyi görebiliyorum.&lt;/p&gt;
+&lt;p&gt;Çalışan ve boş zamanı sınırlı olan insanların kesinlikle zamanını iyi planlaması gerekiyor. Yapmak istediğimiz işe ayıracağı zamanı iyi korumak, bilgisayar başındayken çer-çöp internet sörfü veya sosyal medya gibi feci şekilde &lt;strong&gt;hızlı zaman tüketen&lt;/strong&gt; alışkanlıklardan kesinlikle uzak durmak gerekiyor. Bir de çalışmayı bölmemek&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Çok fazla birikmiş şey varsa geri dönüp toparlanmaya çalışmak ise ayrı bir ızdırap&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Tabi ki özellikle özgür yazılım konusunda hiçbir şekilde &amp;#8220;bir şeyler yapmak&amp;#8221; zorunda değilim. Her ne kadar insanlar katkıcıları katkı verme yükümlülüğündeki insanlar gibi görse de, böyle bir yükümlülük ve sorumluluk yok. Hatta bu algıyı yıkmak için hiçbir şey yapmamak nasıl olurdu düşünmüyor değilim&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Sanki ülkemizde özgür yazılıma katkı vermek birilerinin işiymiş gibi bir algı oluşmuş gibi. Nasılsa birileri yapıyor da bir başka algı. Yapılmalı, edilmeli diyen talepkar duruş sahipleri azalsa da şiarımızı tekrar etmeliyiz&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Yapabilecek durumdaysan yapmalısın arkadaşım!&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;***&lt;/p&gt;
+&lt;p&gt;Son üç ayda sadece &lt;a href=&quot;http://forum.libreoffice.org.tr&quot; target=&quot;_blank&quot;&gt;LibreOffice&lt;/a&gt; Türkiye&amp;#8217;nin sair işleriyle uğraşmadım elbette. LibreOffice Küresel Pazarlama çalışmalarına zaman ayırdım, Kalite-Güvence/hata kayıtları, LibreOffice&amp;#8217;in Twitter&amp;#8217;da ve diğer sosyal ağlardaki tanıtım çalışmaları da haylice zamanımı aldı.&lt;/p&gt;
+&lt;p&gt;Çevirilere bu dönem çok vakit ayıramadım. &lt;a href=&quot;http://wiki.libreoffice.org.tr&quot; target=&quot;_blank&quot;&gt;Wiki&lt;/a&gt;&amp;#8216;ye sınırlı, belge yazmaya da keza aynı. &lt;a href=&quot;http://forum.libreoffice.org.tr&quot; target=&quot;_blank&quot;&gt;Forum&lt;/a&gt;&amp;#8216;u yanıtsız bırakmamaya çalıştım, en azından bu konuda başarılı olduğumu söyleyebilirim. Kullanıcılarımızın sorunlarından birçok hata kaydı çıkardım ve bu kayıtlar LibreOffice&amp;#8217;in gelişmesine fayda sağlayan hatalardı. Türkiye&amp;#8217;de pazarlama adına bir faaliyet gösteremedik. &lt;a href=&quot;https://twitter.com/LibreOfficeTurk&quot; target=&quot;_blank&quot;&gt;LibreOffice Türkiye Twitter&lt;/a&gt; hesabından sınırlı bir iletişimle tanıtım faaliyeti yapmaya çalıştım ama maalesef zaman yetmedi. Şirketler ve Kurumsal kullanıcılara yönelik Önerilen Çözüm Ortağı gibi fikirlerimizi hayata geçirecek zaman olmadı. Fatih Projesi ve LibreOffice&amp;#8217;in durumuyla ilgili 1 cm bile ilerleyemedik. Fatih zaten ne olduğu hakkında biraz fikrimiz olan &lt;a href=&quot;http://listarchives.libreoffice.org/tr/users/msg00168.html&quot; target=&quot;_blank&quot;&gt;fakat nasıl yürütüldüğüyle ilgili hiç bir fikrimiz olmayan adeta kapalı bir proje&amp;#8230; &lt;/a&gt;Bu konuda gönüllü olacak ve bu işin sıkıca takipçisi olacak arkadaşlara ihtiyacımız var&amp;#8230;&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;LibreOffice Türkçe Geliştirici Listesi Hayırlı Olsun!&quot; href=&quot;http://blog.bluzz.net/libreoffice-turkce-gelistirici-listesi-hayirli-olsun/&quot; target=&quot;_blank&quot;&gt;LibreOffice Türkiye Geliştirici ekibi&lt;/a&gt; de başarısız olduğumuz bir diğer nokta oldu. Çok beklentim olmadığı için fazla bir hayal kırıklığına uğramadım ama ilgisizlik gerçekten beni üzdü. Genç arkadaşların sahiplenmesi gerekirdi. LibreOffice&amp;#8217;in içermeci yapısı ve &lt;a href=&quot;https://wiki.documentfoundation.org/Development/Easy_Hacks&quot; target=&quot;_blank&quot;&gt;EasyHack&lt;/a&gt; ile başlayan süreçleri yurt dışında çok iyi çalışıyor fakat maalesef biz Türkiye&amp;#8217;de yine üretime katılamadık. Bu yıl tek tesellimiz &lt;a href=&quot;http://efegurkangsoc2013.wordpress.com/&quot; target=&quot;_blank&quot;&gt;Efe Gürkan Yalaman&amp;#8217;ın GSoC&amp;#8217;da &amp;#8220;ExpertConfig&amp;#8221;&lt;/a&gt; çalışmasını yapmış olması. Geçen yıl da &lt;a href=&quot;http://blog.yeredusuncedernegi.com/&quot; target=&quot;_blank&quot;&gt;Gökçen Eraslan Sayısal İmza desteğiyle GSoC&amp;#8217;da yer almıştı. &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Her ne kadar GSoC&amp;#8217;da yer almak harika bir şey olsa da, kod katkıcısının devamlılığını göremedik. Zaten şu an ülkemizden de bildiğim başka tek satır kod yazıp LibreOffice&amp;#8217;e göndermiş kimse yok. Bence bu çok utanılacak bir durum. Çok utanıyorum doğrusu. Daha fazla kaça bölünebilirim bilmiyorum ama bu konuda da bir şekilde çağrı yapmaya devam edeceğim.&lt;/p&gt;
+&lt;p&gt;LibreOffice&amp;#8217;in çoğu &amp;#8220;kağıt kesiği&amp;#8221; olan onlarca &lt;a href=&quot;https://wiki.documentfoundation.org/Development/Easy_Hacks#Lists_of_Easy_Hacks&quot; target=&quot;_blank&quot;&gt;EasyHack &lt;/a&gt;yeni geliştirici adaylarını beklemekte.&lt;/p&gt;
+&lt;p&gt;Başarısızlıkları sıralarken yazım denetimi, dilbilgisi denetimi ve eş anlamlılar sözlüğü gibi Türkçe ile ilgili hususlara hiç girmek istemiyorum. Sevgili &lt;a href=&quot;http://anilozbek.blogspot.com/&quot; target=&quot;_blank&quot;&gt;Anıl&lt;/a&gt;&amp;#8216;ın &lt;a href=&quot;https://github.com/maidis/mythes-tr&quot; target=&quot;_blank&quot;&gt;Türkçe Eş Anlamlılar Sözlüğü &lt;/a&gt;konusundaki çabalarının  desteksiz kalması, dilbilgisine yönelik ne yeterli teknik elemanın ne de ilgilin olması beni çok üzmüştü. Tek sevindirici haber ise&lt;a href=&quot;http://zembereknlp.blogspot.com/&quot; target=&quot;_blank&quot;&gt; Zemberek&amp;#8217;in yeni sürümüne yönelik umut ışığının olmasıydı&lt;/a&gt; Burdan tekrar sesleniyorum, kod katkısı verebilecek herkesi Zemberek Projesine katkı vermeye davet ediyorum.&lt;/p&gt;
+&lt;p&gt;Wiki ve belgelendirme konusunda da bu yılı başarılı geçmiş sayamıyorum. Bu konuda da tonla yapılacak iş var. Kalite kontrol vb gibi konularda sınırlı ve bireysel çabalarımız olsa da tatminkar işler çıkardığımız söylenemez.&lt;/p&gt;
+&lt;p&gt;Özetle, tam işleyen bir topluluk olamadık henüz. İlgi ve alaka yok denecek kadar az, çeviri ekibi hariç -ki burada da hızımız düştü- bir elin parmaklarını geçmeyecek kadar az kişi işleri idare etmeye çalışıyoruz. Hala doğru düzgün Makro ve Basic bilen birisini bulamamış olmamız üzücü.&lt;/p&gt;
+&lt;p&gt;Topluluk oluşturabilmek, işlerliğini devam ettirebilmek çok anlamadığım işler. Ben topluluk yöneticisi değilim, bir topluluk yöneticimiz de yok. İşlerin devam etmesi için harcadığım zaman yerine topluluğu geliştirmeye daha fazla zaman ayırsaydım diye düşünüyorum ama daha iyi olacağını zannetmiyorum. Jenerasyona bağlı kaybedilen şeyler var, yaklaşık 8 yıl önce başladığım özgür yazılım serüveninde bir üst jenerasyonun çalışkanlığına imrenirdim. Şimdi bu üst jenerasyon 40&amp;#8242;lı yaşlarda ve çoğunun zamanı tükenmiş vaziyette, aşağıdan gelen bir jenerasyonu geçtim birey bile yok. Arafta kalmış zombi-katkıcı gibi hissetmiyor değilim. Ne kadar sürdürebileceğimi bilmiyorum ama yapmazsam yapacak kimse olmayacak, bu da üzerimde baskı kurmuyor değil. Keyiften zorunluluğa geçiş iğrenç bir duygu. Yalnız kalmak ise bir o kadar kötü. Proaktif arkadaşlara ihtiyacımız var&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Eskiden ne güzelmiş oysa&amp;#8230;&lt;/p&gt;
+&lt;div class=&quot;wp-caption aligncenter&quot;&gt;&lt;img alt=&quot;Demeyeceğim!&quot; src=&quot;http://www.quickmeme.com/img/c9/c9f594a0b7866d0149133e930b3c9e0aafe14acbdab7dacd2997740e52e46cbc.jpg&quot; width=&quot;420&quot; height=&quot;481&quot; /&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;Demeyeceğim!&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Yapamadıklarımızı yazdım. Yaptıklarımız emin olun daha fazla. Ama bundan daha fazlasını şu halimizle yapamayız. &lt;strong&gt;&lt;a href=&quot;http://tr.libreoffice.org/get-involved/&quot; target=&quot;_blank&quot;&gt;Daha iyisi için katkıcı olun.&lt;/a&gt; Davetimiz gönüldendir.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;div class=&quot;yarpp-related-rss&quot;&gt;
+&lt;p&gt;İlgili Diğer Başlıklar:&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.bluzz.net/libreoffice-ile-ilgli-neler-yaptik-neler-yapiyoruz-1/&quot; rel=&quot;bookmark&quot; title=&quot;LibreOffice ile İlgili Neler Yaptık, Neler Yapıyoruz &amp;#8211; 1&quot;&gt;LibreOffice ile İlgili Neler Yaptık, Neler Yapıyoruz &amp;#8211; 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.bluzz.net/libreoffice-test-maratonu-14-19-aralik/&quot; rel=&quot;bookmark&quot; title=&quot;LibreOffice Test Maratonu 14 &amp;#8211; 19 Aralık&quot;&gt;LibreOffice Test Maratonu 14 &amp;#8211; 19 Aralık&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.bluzz.net/libreoffice-calisma-gruplari/&quot; rel=&quot;bookmark&quot; title=&quot;LibreOffice Çalışma Grupları&quot;&gt;LibreOffice Çalışma Grupları&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;</content>
+		<author>
+			<name>Zeki Bildirici</name>
+			<uri>http://blog.bluzz.net</uri>
+		</author>
+		<source>
+			<title type="html">bluzz.net » LibreOffice</title>
+			<subtitle type="html">weblog</subtitle>
+			<link rel="self" href="http://blog.bluzz.net/tag/libreoffice/feed/"/>
+			<id>http://blog.bluzz.net/tag/libreoffice/feed/</id>
+			<updated>2014-01-04T19:03:33+00:00</updated>
+		</source>
+	</entry>
+
+	<entry xml:lang="tr-TR">
+		<title type="html">LibreOffice’de “Gömme Harf” kullanarak süslü paragraflar oluşturmak</title>
+		<link href="http://blog.bluzz.net/libreofficede-gomme-harf-kullanarak-suslu-paragraflar-olusturmak/"/>
+		<id>http://blog.bluzz.net/?p=2040</id>
+		<updated>2013-12-07T16:38:47+00:00</updated>
+		<content type="html">&lt;p&gt;Aslında LibreOffice forumlarında basit bir ipucu yazma niyetindeydim fakat bu küçük konuyla ilgili biraz daha yazmak istediğimden dolayı buradan yazmaya karar verdim.&lt;/p&gt;
+&lt;p&gt;Öncelikle &amp;#8216;&lt;strong&gt;Gömme Harf&lt;/strong&gt;&amp;#8221; nedir derseniz, bunu ilk kez bugün duydum.&lt;/p&gt;
+&lt;p&gt;Genellikle basılı yayınlarda görmüşsünüzdür, paragrafın ilk harfi iri bir şekilde paragrafın başında yer alır ve birkaç satır yüksekliğindeki bu harf paragrafın baş bölümüne &amp;#8220;gömülmüş&amp;#8221; gibidir. Dergiler, gazeteler, eski hikaye kitapları, ortaçağdan kalma metinler vb birçok belgede bu kullanıma rastlamışsınızdır.&lt;/p&gt;
+&lt;p&gt;Bu özelliğin LibreOffice&amp;#8217;de olduğunu biliyordum ayrıca bunun nasıl yapılacağıyla ilgili de LibreOffice Yardım içeriğimizde güzel bir başlığımız da var:  &lt;a href=&quot;https://help.libreoffice.org/Writer/Drop_Caps/tr&quot;&gt;https://help.libreoffice.org/Writer/Drop_Caps/tr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lakin bu işlevin adını &amp;#8220;İlk Harfleri Büyüt&amp;#8221; şeklinde yardım içeriğindeyse maddenin başlığı &amp;#8220;Paragrafın başındaki iri başlangıç karakteri&amp;#8221; şeklinde çevrilmiş.&lt;/p&gt;
+&lt;p&gt;Çeviri sürecinde kalite kontrol çok önemli, bu özellikle terimlerde -hele matbaacılık ve yayıncılıkla ilgiliyse- zorlayıcı oluyor. Bu gibi durumlarda konunun uzmanı olan sevgili &lt;strong&gt;Ali Işıngör&lt;/strong&gt; abimizden destek alıyorum.&lt;/p&gt;
+&lt;p&gt;Bu işlev konusunda da kendisine dönüp nedir bu &amp;#8220;&lt;em&gt;&lt;strong&gt;Drop Caps&lt;/strong&gt;&lt;/em&gt;&amp;#8220;ın Türkçesi diye sordum. &amp;#8220;Gömme Harftir onun Türkçesi&amp;#8221; yanıtı üzerine de biraz şaşırdım ve bunun da bahanesiyle bir telefonda da dertleşmiş olduk&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Gömme harf, aslında basılı yayınlardan çok internet yayınlarıyla daha çok haşır neşir olduğumuz için çoğumuz basit ve süsten uzak metin bloklarıyla daha çok haşır neşir olmuş durumdayız. Haliyle gömme harfin de kullanımı bu sebepten azalmakta. Hatta doğru bir tanımını bulmak dahi zorlayıcı olmakta. Bu sebepten dolayı konusunda uzman olan Ali abi sayesinde bir nevi bu biçemi doğru adlandırılmış şekliyle dilimizde koruyoruz.&lt;/p&gt;
+&lt;p&gt;Microsoft Office tarafına onlar ne yapmış diye baktığımızda Drop Caps&amp;#8217;i &amp;#8220;Başlangıcı büyüt, Büyütülmüş bir ilk büyük harf oluşturma&amp;#8221; gibi karşılıklar kullandıklarını gördüm ki bunlar da gayet zorlayıcı tanımlamalar.(Bknz &lt;a href=&quot;http://office.microsoft.com/tr-tr/word-help/results.aspx?qu=ba%C5%9Flang%C4%B1c%C4%B1+b%C3%BCy%C3%BCt&amp;ex=1&amp;origin=EC079000070&quot; target=&quot;_blank&quot;&gt;http://office.microsoft.com/tr-tr/word-help/results.aspx?qu=ba%C5%9Flang%C4%B1c%C4%B1+b%C3%BCy%C3%BCt&amp;amp;ex=1&amp;amp;origin=EC079000070&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;LibreOffice çevirilerindeki hatalı ve yanlış anlaşılmaya sebep olabilecek(cümle ve kelimelerin ilk harflerini büyük/küçük harfe dönüştürmeyle mesela) çevirileri düzelttikten sonra. Mevcut yardım içeriğimizden de faydalanarak, LibreOffice&amp;#8217;de nasıl gömme harf kullanılacağını anlatayım&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Gömme harf uygulamak istediğiniz paragrafı imleçle seçin ve menüden Biçim &amp;#8211; Paragraf&amp;#8217;a tıklayın, açılan iletişim penceresinde &amp;#8220;Şimdilik İlk Harfi Büyüt- Sonraki sürümlerde Gömme Harf&amp;#8221;i seçin:&lt;/p&gt;
+&lt;div id=&quot;attachment_2042&quot; class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://blog.bluzz.net/wp-content/uploads/2013/12/gomme-harf-libreoffice-menu.jpeg&quot;&gt;&lt;img class=&quot; wp-image-2042 &quot; alt=&quot;LibreOffice'de Gömme Harf ekeleme iletşim penceresi Menüde Biçim - Paragraf yolunu izleyin&quot; src=&quot;http://blog.bluzz.net/wp-content/uploads/2013/12/gomme-harf-libreoffice-menu.jpeg&quot; width=&quot;550&quot; height=&quot;386&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;LibreOffice&amp;#8217;de Gömme Harf ekleeme iletişim penceresi Menüde Biçim &amp;#8211; Paragraf yolunu izleyin&lt;/p&gt;&lt;/div&gt;
+&lt;blockquote&gt;&lt;p&gt;Bir paragrafın ilk harfini, birkaç satır büyüklüğünde olabilen geniş bir büyük harf ile biçimlendirir. Paragraf en az Satırlar kutucuğunda belirttiğiniz satır sayısı kadar yer kaplamalıdır.*Aşağıdaki ipucuna bakınız.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Gömme harf işlevine erişmek için:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1- Biçim &amp;#8211; Paragraf &amp;#8211; İlk Harfleri Büyüt/Gömme Harf&lt;/b&gt; sekmesini seçin&lt;/p&gt;
+&lt;p&gt;veya&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2- Biçim &amp;#8211; Biçemler ve Biçimlendirme -&lt;/b&gt; seçeneğini seçip, içerik menüsünü açın &lt;b&gt;Değiştir/Yeni &amp;#8211; İlk Harfleri Büyüt/Gömme Harf&lt;/b&gt; sekmesini seçin&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ayarlar:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;İlk Harfleri büyüt/Gömme Harf:&lt;/strong&gt;&lt;br /&gt;
+Seçilen paragrafa paragraf başı iri başlangıç karakteri ayarlarını uygular.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tam kelime:&lt;/strong&gt;&lt;br /&gt;
+Paragrafın ilk kelimesinin ilk karakterini iri ve kelimenin geri kalan karakterlerini büyük türde gösterir.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Karakter Sayısı:&lt;/strong&gt;&lt;br /&gt;
+Paragraf başında iri başlangıç karakteri olarak gösterilecek karakter sayısını girin.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Satırlar:&lt;/strong&gt;&lt;br /&gt;
+Paragrafın ilk satırından aşağıya doğru iri başlangıç karakterinin genişlemesini istediğiniz satır numarasını giriniz. Seçim 2-9 satır ile sınırlıdır.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Metinden uzaklık:&lt;/strong&gt;&lt;br /&gt;
+Paragraf başındaki iri başlangıç karakteri ile paragraf metninin geri kalanı arasındaki boşluk miktarını girin.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;İçerikler&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Metin:&lt;br /&gt;
+&lt;/strong&gt;Paragrafın ilk karakteri yerine kullanmak istediğiniz iri başlangıç karakterini girin.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Karakter Biçemi:&lt;/strong&gt;&lt;br /&gt;
+Paragrafın başındaki iri başlangıç karakterine uygulamak istediğiniz biçimlendirme tarzını seçiniz. Geçerli biçimlendirme tarzını kullanmak için, [Hiçbiri]&amp;#8216;ni seçiniz.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Önizleme Alanı&lt;br /&gt;
+&lt;/strong&gt;Geçerli seçimin önizlemesini gösterir.&lt;/p&gt;
+&lt;p&gt;* İpucu: Yukarıda yazdığı üzere ancak Satırlar sayısında bulunan sayı kadar satır içeren paragraflarda bu özellik uygulanmakta. Tek satırlarda da bu özelliği kullanmak isterseniz satırın ilk harfinin soluna imleci yerleştirin ve satır atlatmak için  &lt;strong&gt;Shift+Enter&lt;/strong&gt; tuşlarına basınız. Shift ve Enter&amp;#8217;a birlikte basmak imleci yeni satır başına gönderecek olup paragraf bütünlüğünü bozmayacaktır. Bir satırı böylece iki satırdan oluşan bir paragraf yerine koymuş olursunuz. Bknz:&lt;/p&gt;
+&lt;div id=&quot;attachment_2043&quot; class=&quot;wp-caption aligncenter&quot;&gt;&lt;a href=&quot;http://blog.bluzz.net/wp-content/uploads/2013/12/gomme-harf-libreoffice.jpeg&quot; target=&quot;_blank&quot;&gt;&lt;img class=&quot; wp-image-2043 &quot; alt=&quot;Gömme Harfle kullanımı&quot; src=&quot;http://blog.bluzz.net/wp-content/uploads/2013/12/gomme-harf-libreoffice.jpeg&quot; width=&quot;768&quot; height=&quot;464&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;Gömme Harfle kullanımı: 3 paragrafta gömme harfin tam sarmalanmasını görebilirsiniz.&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Gömme harf kullanarak süslü paragraflar oluşturabilirsiniz. Bu sayede belgeniz görsellik kazanacak ve bu da sıkıcı düz metin bloklarından bunalmış okuyucunun keyfini artıracaktır.&lt;/p&gt;
+&lt;p&gt;Gömme harf eski bir biçem ve günümüzde kullanımı azalsa da CSS ile gömme harfi web sitelerinde de kullanmak mümkünmüş&lt;a href=&quot;http://fatihhayrioglu.com/ilk-harfi-buyukdrop-caps-paragraflar-olusturmak/&quot; target=&quot;_blank&quot;&gt;*&lt;/a&gt;. Yine aynı şekilde e-kitap dosya biçimleri ve biçemleri de bildiğim kadarıyla gömme harfi destekliyor.&lt;/p&gt;
+&lt;p&gt;Gömme harf demişken, LibreOffice&amp;#8217;in önümüzdeki 4.2 sürümünde karakter sınırları ve gömme harfle ilgili de gelişmeler de var. LibreOffice 4.2. yenilikleri için &lt;a href=&quot;https://wiki.documentfoundation.org/ReleaseNotes/4.2#Writer&quot;&gt;https://wiki.documentfoundation.org/ReleaseNotes/4.2#Writer&lt;/a&gt; adresini ziyaret edebilirsiniz.&lt;/p&gt;
+&lt;p&gt;Buradan sevgili Ali Işıngör abimize sürekli katkı ve desteği için bir kez daha teşekkür ediyorum.&lt;/p&gt;
+&lt;p&gt;Mutlu günler.&lt;/p&gt;
+&lt;div class=&quot;yarpp-related-rss&quot;&gt;
+&lt;p&gt;İlgili Diğer Başlıklar:&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.bluzz.net/libreoffice-ile-doldurulabilir-pdf-form-belgeleri-olusturmak/&quot; rel=&quot;bookmark&quot; title=&quot;LibreOffice ile doldurulabilir PDF form belgeleri oluşturmak&quot;&gt;LibreOffice ile doldurulabilir PDF form belgeleri oluşturmak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.bluzz.net/libreoffice-ile-on-sayfakapak-olusturmak-ve-numaralandirmak/&quot; rel=&quot;bookmark&quot; title=&quot;LibreOffice ile Ön Sayfa(Kapak) oluşturmak ve numaralandırmak&quot;&gt;LibreOffice ile Ön Sayfa(Kapak) oluşturmak ve numaralandırmak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.bluzz.net/libreoffice-yardim-icerigi-artik-cevrimici/&quot; rel=&quot;bookmark&quot; title=&quot;LibreOffice Yardım içeriği artık çevrimiçi!&quot;&gt;LibreOffice Yardım içeriği artık çevrimiçi!&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+		<author>
+			<name>Zeki Bildirici</name>
+			<uri>http://blog.bluzz.net</uri>
+		</author>
+		<source>
+			<title type="html">bluzz.net » LibreOffice</title>
+			<subtitle type="html">weblog</subtitle>
+			<link rel="self" href="http://blog.bluzz.net/tag/libreoffice/feed/"/>
+			<id>http://blog.bluzz.net/tag/libreoffice/feed/</id>
+			<updated>2014-01-04T19:03:33+00:00</updated>
+		</source>
+	</entry>
+
+</feed>

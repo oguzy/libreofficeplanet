@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<opml version="1.1">
+	<head>
+		<title>LibreOfis Gezegeni</title>
+		<dateModified>Sat, 04 Jan 2014 19:06:54 +0000</dateModified>
+		<ownerName>Zeki Bildirici</ownerName>
+		<ownerEmail>kobzeci@gmail.com</ownerEmail>
+	</head>
+	
+	<body>
+		<outline type="rss" text="Zeki Bildirici" xmlUrl="http://blog.bluzz.net/tag/libreoffice/feed/" title="bluzz.net » LibreOffice" />
+	</body>
+</opml>
