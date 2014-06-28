@@ -34,3 +34,9 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# compiled templates
+*.tmplc
+
+# compiled py files
+*.pyc
