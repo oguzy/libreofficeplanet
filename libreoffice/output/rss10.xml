@@ -13,12 +13,80 @@
 
 	<items>
 		<rdf:Seq>
+			<rdf:li rdf:resource="http://blog.bluzz.net/?p=2073" />
+			<rdf:li rdf:resource="http://blog.bluzz.net/?p=2063" />
 			<rdf:li rdf:resource="http://blog.bluzz.net/?p=2055" />
 			<rdf:li rdf:resource="http://blog.bluzz.net/?p=2040" />
 		</rdf:Seq>
 	</items>
 </channel>
 
+<item rdf:about="http://blog.bluzz.net/?p=2073">
+	<title>Zeki Bildirici: Freedomsponsors.org: Destek olun &amp; Harçlık Kazanın</title>
+	<link>http://blog.bluzz.net/freedomsponsors-org-destek-olun-harclik-kazanin/</link>
+	<content:encoded>&lt;p&gt;Özgür yazılımın gönüllü katkıcıların emekleriyle oluşturulduğunu elbette hepimiz biliyoruz. Yazılım gelişip büyüdükçe de sunucu, dernek, özel emek gerektiren işler vb çeşitli maliyetler de ortaya çıkıyor. Bu maliyetler de gönüllülerin bağışlarıyla veya özgür yazılım üzerine iş yapan şirketler veya bazı vakıf ve kamu kurumlarının desteğiyle karşılanmakta&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Linux çekirdeği veya LibreOffice gibi büyük özgür yazılım projelerinde bu maliyetler elbette çok daha büyük oluyor ve bunlar büyük sonsorların desteğiyle karşılanmakta. Örnek verirsek, Linux Vakıfı&amp;#8217;nın devasa sponsorları şurada: &lt;a href=&quot;http://www.linuxfoundation.org/about/members&quot; target=&quot;_blank&quot;&gt;http://www.linuxfoundation.org/about/members&lt;/a&gt; LibreOffice&amp;#8217;in ise &amp;#8220;büyük&amp;#8221; sponsorları benzer bir şekilde &amp;#8220;Danışma Kurulu -Advisory Board&amp;#8221; altında görülebilir:&lt;br /&gt;
+&lt;a href=&quot;https://www.libreoffice.org/about-us/advisory-board/&quot;&gt;https://www.libreoffice.org/about-us/advisory-board/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://wiki.documentfoundation.org/TDF/Advisory_Board&quot; target=&quot;_blank&quot;&gt;LibreOffice Danışma Kurulu&lt;/a&gt;&amp;#8216;nda yer almak, bu şirketlere iş yaptıkları ekosistemin ihtiyaçlarına göre LibreOffice&amp;#8217;in seyri ve gelişmesinde söz sahibi olma hakkı tanıyor. Elbette yıllık belli bir ücretle şirketler ve kurumlar bu kurula katılabiliyor. Kurulun ücretleri tam zamanlı geliştirici sağlama ve çalışan sayısına göre değişiyor. Detayları burada görebilirsiniz: &lt;a href=&quot;https://wiki.documentfoundation.org/TDF/Advisory_Board&quot; target=&quot;_blank&quot;&gt;https://wiki.documentfoundation.org/TDF/Advisory_Board&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kurulda dikkat çekmek istediğim King Abdulaziz City for Science and Technology (KACST). Bu kurumu Suudi Arabistan&amp;#8217;ın TÜBİTAK&amp;#8217;ı olarak kabaca tanımlayabiliriz. LibreOffice&amp;#8217;in gelişmesine ve Arabistan&amp;#8217;da kullanılımı üzerine epeyce iş yapıyorlar. LibreOffice&amp;#8217;in Arapça sürümüne ve soldan-sağa yazılan dillere yönelik yazım desteği ve iyileştirmeleri bu kurum sayesinde oldu diyebiliriz. Bnkz:&lt;br /&gt;
+&lt;a href=&quot;http://blog.documentfoundation.org/2013/06/25/the-document-foundation-welcomes-a-new-member-of-the-advisory-board-king-abdulaziz-city-for-science-and-technology-kacst-of-saudi-arabia/&quot;&gt;http://blog.documentfoundation.org/2013/06/25/the-document-foundation-welcomes-a-new-member-of-the-advisory-board-king-abdulaziz-city-for-science-and-technology-kacst-of-saudi-arabia/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ben TÜBİTAK&amp;#8217;ın da LibreOffice Danışma Kurulu içierisinde yer alması gerektiğini düşünmekteyim. Kurumsal pazarı hedefleyen bir Linux dağıtımın iş modelinde temel teşkil eden bir bileşen olan LibreOffice&amp;#8217;in gelişimi iş modelinin de sağlıklı ilerlemesi ve sorunları birincil elden çözülmesi gibi çok önemli faydalar sağlayan çok büyük bir avantaj. Ben TÜBİTAK yönetiminde olsam kesinlikle bu kurula TÜBİTAK&amp;#8217;ı dahil ederdim&amp;#8230; Yıllık ücretler çok görünmesin, gerçekten edilen tasarrufun yanında bu tutarlar para değil.&lt;/p&gt;
+&lt;p&gt;Kısa bir giriş yapmak istemiştim ama yine kaptırdık. Yukarıda yazdıklarım başka bir yazının ana konusu olsun ve konuya geri döneyim&amp;#8230;&lt;/p&gt;
+&lt;p&gt;****&lt;/p&gt;
+&lt;p&gt;Yukarıda kabaca özgür yazılımın mali tarafını anlatmaya çalıştım. Gelin görün ki bir tepeden yönetim ve istihdam modeliyle de yapılamayan bazı şeyler var. Bunlar aslında özgür yazılımın ilerlemesinde yenilikçiliği temsil eden şeyler. Çoğunlukla iyileştirmeler ve yeni özellikler kullanıcılar tarafından talep edilmekte ve geliştiricilerin başının etini yiye yiye onların ilk uygun zamanlarında yapılmayı beklemekte&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Özellikle gönüllü geliştiricilerin sürekli boş zamanı olmadığı ve kendi istekleri dışında(veya bağlı olduğu organizasyonun iş listesi dışında) özgür yazılımda sürekli bir sorumluluğu olmadığının bir kez daha altını çizmek istiyorum. Tabi birçoğunun da ya öğrenci ya da serbest çalışan(freelancer) kişiler olduğunu da hatırlatayım&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Onlarca özelli isteği ve az bir iş gücü denklemindeki çözümsüzlük için işte tam burada &lt;a href=&quot;http://freedomsponsors.org/&quot; target=&quot;_blank&quot;&gt;Freedomsponsors.org&lt;/a&gt; devreye giriyor.&lt;/p&gt;
+&lt;div id=&quot;attachment_2075&quot; class=&quot;wp-caption aligncenter&quot;&gt;&lt;img class=&quot; wp-image-2075 &quot; alt=&quot;Freedomsponsors.org&quot; src=&quot;http://blog.bluzz.net/wp-content/uploads/2014/01/fs_logo.jpg&quot; width=&quot;540&quot; height=&quot;113&quot; /&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;Freedomsponsors.org&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://freedomsponsors.org/&quot; target=&quot;_blank&quot;&gt;Freedomsponsors.org&lt;/a&gt;, özgür yazılımdaki genel bağış mantığından farklı olarak, iş ve çözüme yönelik bağış mantığını benimseyen, belirli bir iş, bir hata için gönlünden ne koparsa destek olarak geliştiricileri motive etmeyi amaçlayan ve sonuç olarak da özgür yazılımın gelişmesine katkı sağlamaya çalışan bir aracı site.&lt;/p&gt;
+&lt;p&gt;Çalışma mantığı çok basit, herhangi bir özgür yazılım projesindeki bir gelişme için &amp;#8211; genellikle o yazılımın hata takip sistemine girilmiş bir hata kaydını temel alarak- bireylerin &lt;em&gt;&lt;strong&gt;&amp;#8220;şu işi halledin ben şu kadar lira benden, helali hoş olsun&amp;#8221;&lt;/strong&gt;&lt;/em&gt; diyerek vaad ettikleri bağışların söz konusu işin/hatanın çözülmesi üzerine hatayı çözen kişiye ödenmesi şeklinde&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Güzelliği ise, hem istek sahibinin gönlünden kopan küçük bir miktarla kişisel olarak beklentinin gerçekleşmesi, hem de hatayı çözen kişinin &amp;#8211; büyük ihtimalle geçimini sağlamak için zorlanan bir kişi veya ailesinin yükünü hafifletmeye çalışan bir öğrenci oluyor bu- bu emeğinin karşılığında para kazanması.&lt;/p&gt;
+&lt;p&gt;Buradaki sponsorlu iş listesine baktığınızda genellikle ürünün normal gelişimine ek olan özellikler olduğu için işin doğasını bozmayan ve destekleyici bir yapı karşımıza çıkıyor.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://freedomsponsors.org/&quot; target=&quot;_blank&quot;&gt;Freedomsponsors.org&lt;/a&gt; ile ilgili daha önce bizim camiada pek yazılı bir şey görmemiştim. Google+ üzerinde sanıyorum &lt;a href=&quot;http://anilozbek.blogspot.com/&quot; target=&quot;_blank&quot;&gt;Anıl Özbek &lt;/a&gt;ve &lt;a href=&quot;https://plus.google.com/u/0/112938414121145489047/&quot; target=&quot;_blank&quot;&gt;Emir Yâsin Sarı&lt;/a&gt;&amp;#8216;nın konuyla ilgili girdileri vardı&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Ben de bugün bu işe dahil olayım dedim ve LibreOffice ile ilgili ilk sponsorluk kaydımı girdim. Söz konusu kayıt, LibreOffice&amp;#8217;de değişiklikleri izlerken değişiklikleri kısmi kabul özelliğinin kazandırılmasıyla ilgili &lt;a href=&quot;https://www.libreoffice.org/bugzilla/show_bug.cgi?id=58723&quot; target=&quot;_blank&quot;&gt;bir hata kaydım üzerinden&lt;/a&gt; yaptım. Bu özellikle editörler ve şirketlerde birlikte çalışan kişilerce ihtiyaç duyulan bir iyileştirme. Bu özelliğin kazandırılması için ben 20 USD&amp;#8217;lik bir sponsorluk kaydı girdim:&lt;br /&gt;
+&lt;a href=&quot;http://freedomsponsors.org/core/issue/429/&quot; target=&quot;_blank&quot;&gt;http://freedomsponsors.org/core/issue/429/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LibreOffice ile ilgili mevcut kayıtları -başarılı olanlar- ve açık teklifleri şuradan görebilirsiniz: &lt;a href=&quot;http://freedomsponsors.org/project/149/LibreOffice#/LibreOffice&quot; target=&quot;_blank&quot;&gt;http://freedomsponsors.org/project/149/LibreOffice#/LibreOffice&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://freedomsponsors.org/&quot; target=&quot;_blank&quot;&gt;Freedomsponsors.org&lt;/a&gt; adresinde sadece LibreOffice yok, Xorg&amp;#8217;dan tutun, Linux çekirdeğine, Scribus&amp;#8217;a kadar onlarca özgür yazılım projesi yer almakta.&lt;/p&gt;
+&lt;p&gt;Eğer sizin de istediğiniz bazı özellikler/çözülmesi için fazladan emeğe ihtiyaç olan hata kayıtları varsa, bu platformda sponsor olmanızı öneririm. sadece bireysel olarak değil, çalıştığınız şirketin ihtiyaçları için de buradan sponsor olabilirsiniz. Ki cömert sponsor kayıtları genellikle bu yazılımları iş modellerinde kullanan şirketler tarafından girilmiş.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://freedomsponsors.org/&quot; target=&quot;_blank&quot;&gt;Freedomsponsors.org&lt;/a&gt; sitesinin kullanımı çok basit, üye oluyorsunuz, para ödemek için bir &lt;a href=&quot;https://www.paypal.com/tr/webapps/mpp/home&quot; target=&quot;_blank&quot;&gt;PayPal&lt;/a&gt; hesabına ihtiyacınız var. Şayet bir kredi karınız varsa &lt;a href=&quot;https://www.paypal.com/tr/webapps/mpp/home&quot; target=&quot;_blank&quot;&gt;PayPal&lt;/a&gt;&amp;#8216;e üye olmak 5 dakika bile sürmüyor(ben de ilk kez üye oldum, kolaymış gerçekten). Ayrıca yeni elektronik para birimi &lt;a href=&quot;http://tr.wikipedia.org/wiki/Bitcoin&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Bitcoin&lt;/strong&gt;&lt;/a&gt; ile de ödeme yapıp ödeme alabiliyorsunuz.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://freedomsponsors.org/&quot; target=&quot;_blank&quot;&gt;Freedomsponsors.org&lt;/a&gt; sitesindeki kayıtlı projeler şurada:&lt;br /&gt;
+&lt;a href=&quot;http://freedomsponsors.org/project/&quot;&gt;http://freedomsponsors.org/project/&lt;/a&gt; Kayıt gireceğiniz proje bu listede yoksa hiç merak etmeyin dilediğiniz özgür yazılım projesini kolaylıkla kayıt edebiliyorsunuz.  Sitenin genel kullanımı çok kolay&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Sitede sponsorluk dışında, Kickstarter(topluluk fonlaması) özelliği de mevcut. Siteyi bu amaçla da kullanabilirsiniz. Site işleyiş maliyeti olarak sponsorluk ödemelerinden küçük bir komisyon almak dışında ek bir maliyet çıkarmıyor&amp;#8230; Detayları siteden alabilirsiniz.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Çağrım iki taraflı, hem geliştirme isteyen kişiler ve şirketlere, hem de ek gelire ihtiyacı olan öğrencilere. Gelin bu platformda özgür yazılıma destek olun. Öğrenciler ve serbest çalışanlar siz de hem özgür yazılıma katkı verin, hem de  ek gelir kazanın!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Mutlu günler.&lt;/p&gt;
+&lt;p&gt;Konu dışı: LibreOffice&amp;#8217;in resmi twitter hesabı açıldı, takip ediniz:&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/LibreOffice&quot;&gt;https://twitter.com/LibreOffice&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;twitter-follow-button&quot; href=&quot;https://twitter.com/LibreOffice&quot;&gt;Follow @LibreOffice&lt;/a&gt;&lt;br /&gt;
+&amp;gt;&lt;/p&gt;
+&lt;p&gt;LibreOffice Türkiye topluluğumuzun hesabını henüz takip etmediyseniz onu da takip ediniz:&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/LibreOfficeTurk&quot;&gt;https://twitter.com/LibreOfficeTurk&lt;/a&gt;&lt;br /&gt;
+&lt;a class=&quot;twitter-follow-button&quot; href=&quot;https://twitter.com/LibreOfficeTurk&quot;&gt;Follow @LibreOfficeTurk&lt;/a&gt;&lt;br /&gt;
+&amp;gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2014-01-17T22:28:46+00:00</dc:date>
+</item>
+<item rdf:about="http://blog.bluzz.net/?p=2063">
+	<title>Zeki Bildirici: LibreOffice Android sürümüne geliştirici olun!</title>
+	<link>http://blog.bluzz.net/libreoffice-android-surumune-gelistirici-olun/</link>
+	<content:encoded>&lt;p&gt;LibreOffice bildiğiniz üzere Windows, GNU/Linux, Mac OS X, BSD platformlarında kullanılabilir bir özgür ofis yazılımı.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Michael Meeks LibreOffice Android sürümünü anlatıyor:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;GSoC 2012 öncesinde Android&amp;#8217;in yükselişiyle LibreOffice&amp;#8217;de mobil platformlarda yerini almak için planlarını yapmıştı. &lt;a href=&quot;http://bosdonnat.fr/libreoffice-gsoc-2012-wrap-up.html&quot; target=&quot;_blank&quot;&gt;GSoC 2012 sonrasında&lt;/a&gt; da hızlanan geliştirme çalışmalarıyla bir şeyler oluşmaya başlamıştı.&lt;/p&gt;
+&lt;div id=&quot;attachment_2070&quot; class=&quot;wp-caption aligncenter&quot;&gt;&lt;img class=&quot; wp-image-2070&quot; title=&quot;LibreOffice Android&quot; alt=&quot;LibreOffice Android&quot; src=&quot;http://blog.bluzz.net/wp-content/uploads/2014/01/android-lo-fpicker.jpg&quot; width=&quot;600&quot; height=&quot;375&quot; /&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;LibreOffice Android&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Fakat bu platformdaki gelişme istenenin epeyce gerisinde kalmış bulunuyor. Sebebi ise malumunuz geliştirici eksikliği&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Gördüğüm o ki Andorid&amp;#8217;in popülerleşmesiyle ülkemizde de Andorid geliştiriciliği hız kazanmış; birçok genç arkadaş bu konuda epey ilgili ve mesafe kat etmiş.&lt;/p&gt;
+&lt;p&gt;LibreOffice&amp;#8217;in masaüstü sürümü için geliştirici çıkarma işinde ülkemiz geride kaldı. &lt;strong&gt;Neden bu açığı LibreOffice Android sürümünde kapatmayalım?&lt;/strong&gt; Madem Android geliştiriciliği  ülkemizde bu denli popüler, gelin LibreOffice&amp;#8217;in Android sürümüne katkı verin.&lt;/p&gt;
+&lt;p&gt;Lafı çok uzatmaya gerek yok aslında. LibreOffice&amp;#8217;in Andorid sürümü hepimizin ihtiyacını giderecek bir ofis yazılımı olacak.&lt;/p&gt;
+&lt;p&gt;Gelin bu geliştirme sürecinde yerinizi alın.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Proaktif olun!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Proactivity&quot; target=&quot;_blank&quot;&gt;Proaktif&lt;/a&gt; demişken, sürekli bu kelimeyi tekrar ediyorum. &lt;a href=&quot;https://eksisozluk.com/proaktif--187690&quot; target=&quot;_blank&quot;&gt;Proaktif&lt;/a&gt; &lt;a href=&quot;http://en.wikipedia.org/wiki/Proactivity&quot; target=&quot;_blank&quot;&gt;nedir&lt;/a&gt; derseniz, elini taşın altına koyan, şartların oluşmasını beklemeden insiyatif alarak işi halletme diye kabaca tanımlayabilirim. Özgür yazılım katkıcısıysanız elinizi taşın altına sokmaktan çekinmemelisiniz. Bekleyeceğiniz bir şey de yok, her toplulukla kendinizi tanıtın elinizden geleni ortaya koyun, bunu yapabilirim deyin ve yapın. Bu kadar. Nazlanmaya, acaba demeye hiç gerek yok. Üreten veya üretmeye niyeti olan kişi her yerde memnuniyetle karşılanacaktır.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;LibreOffice&amp;#8217;in Android sürümüne katkıcı olmak için şu sayfadan başlayabilirsiniz: &lt;a href=&quot;https://wiki.documentfoundation.org/LibreOffice_on_Android&quot; target=&quot;_blank&quot;&gt;https://wiki.documentfoundation.org/LibreOffice_on_Android&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Günlük sürümler şurada: &lt;a href=&quot;http://dev-builds.libreoffice.org/daily/master/Android-ARM@24-Bytemark-Hosting/current/&quot; target=&quot;_blank&quot;&gt;http://dev-builds.libreoffice.org/daily/master/Android-ARM@24-Bytemark-Hosting/current/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kod şurada: &lt;a href=&quot;http://cgit.freedesktop.org/libreoffice/core/tree/android&quot; target=&quot;_blank&quot;&gt;http://cgit.freedesktop.org/libreoffice/core/tree/android&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Geliştirici sayfaları: &lt;a href=&quot;https://wiki.documentfoundation.org/Development&quot;&gt;https://wiki.documentfoundation.org/Development&lt;/a&gt; &lt;a href=&quot;http://tr.libreoffice.org/get-involved/gelistirici/&quot;&gt;http://tr.libreoffice.org/get-involved/gelistirici/&lt;/a&gt; &lt;a href=&quot;https://www.libreoffice.org/developers/&quot;&gt;https://www.libreoffice.org/developers/&lt;/a&gt; Türkçe geliştirici listemiz hakkında da&lt;a title=&quot;LibreOffice Türkçe Geliştirici Listesi Hayırlı Olsun!&quot; href=&quot;http://blog.bluzz.net/libreoffice-turkce-gelistirici-listesi-hayirli-olsun/&quot; target=&quot;_blank&quot;&gt; şuradan bilgi &lt;/a&gt;alabilirsiniz.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Geri durmayalım! LibreOffice Android sizin elinizde şekillensin.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Not:&lt;/strong&gt;&lt;/em&gt; &lt;em&gt;Bu arada LibreOffice&amp;#8217;i rollAPP ile iPad ve ChromeBook/Chrome üzerinde kullanabiliyorsunuz: &lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt; - &lt;a href=&quot;http://forum.libreoffice.org.tr/viewtopic.php?f=2&amp;t=548&amp;&quot;&gt;LibreOffice, RollApp ile iPad ve Chromebook’larda&lt;/a&gt;&lt;/h2&gt;</content:encoded>
+	<dc:date>2014-01-09T19:44:23+00:00</dc:date>
+</item>
 <item rdf:about="http://blog.bluzz.net/?p=2055">
 	<title>Zeki Bildirici: Neler Yap-a-mıyorum…</title>
 	<link>http://blog.bluzz.net/neler-yap-a-miyorum/</link>
@@ -47,14 +115,7 @@
 &lt;p&gt;Eskiden ne güzelmiş oysa&amp;#8230;&lt;/p&gt;
 &lt;div class=&quot;wp-caption aligncenter&quot;&gt;&lt;img alt=&quot;Demeyeceğim!&quot; src=&quot;http://www.quickmeme.com/img/c9/c9f594a0b7866d0149133e930b3c9e0aafe14acbdab7dacd2997740e52e46cbc.jpg&quot; width=&quot;420&quot; height=&quot;481&quot; /&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;Demeyeceğim!&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;Yapamadıklarımızı yazdım. Yaptıklarımız emin olun daha fazla. Ama bundan daha fazlasını şu halimizle yapamayız. &lt;strong&gt;&lt;a href=&quot;http://tr.libreoffice.org/get-involved/&quot; target=&quot;_blank&quot;&gt;Daha iyisi için katkıcı olun.&lt;/a&gt; Davetimiz gönüldendir.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;div class=&quot;yarpp-related-rss&quot;&gt;
-&lt;p&gt;İlgili Diğer Başlıklar:&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;http://blog.bluzz.net/libreoffice-ile-ilgli-neler-yaptik-neler-yapiyoruz-1/&quot; rel=&quot;bookmark&quot; title=&quot;LibreOffice ile İlgili Neler Yaptık, Neler Yapıyoruz &amp;#8211; 1&quot;&gt;LibreOffice ile İlgili Neler Yaptık, Neler Yapıyoruz &amp;#8211; 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://blog.bluzz.net/libreoffice-test-maratonu-14-19-aralik/&quot; rel=&quot;bookmark&quot; title=&quot;LibreOffice Test Maratonu 14 &amp;#8211; 19 Aralık&quot;&gt;LibreOffice Test Maratonu 14 &amp;#8211; 19 Aralık&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://blog.bluzz.net/libreoffice-calisma-gruplari/&quot; rel=&quot;bookmark&quot; title=&quot;LibreOffice Çalışma Grupları&quot;&gt;LibreOffice Çalışma Grupları&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;&lt;/p&gt;</content:encoded>
 	<dc:date>2014-01-03T21:20:04+00:00</dc:date>
 </item>
 <item rdf:about="http://blog.bluzz.net/?p=2040">
@@ -101,14 +162,7 @@ Paragrafın başındaki iri başlangıç karakterine uygulamak istediğiniz biç
 &lt;p&gt;Gömme harf eski bir biçem ve günümüzde kullanımı azalsa da CSS ile gömme harfi web sitelerinde de kullanmak mümkünmüş&lt;a href=&quot;http://fatihhayrioglu.com/ilk-harfi-buyukdrop-caps-paragraflar-olusturmak/&quot; target=&quot;_blank&quot;&gt;*&lt;/a&gt;. Yine aynı şekilde e-kitap dosya biçimleri ve biçemleri de bildiğim kadarıyla gömme harfi destekliyor.&lt;/p&gt;
 &lt;p&gt;Gömme harf demişken, LibreOffice&amp;#8217;in önümüzdeki 4.2 sürümünde karakter sınırları ve gömme harfle ilgili de gelişmeler de var. LibreOffice 4.2. yenilikleri için &lt;a href=&quot;https://wiki.documentfoundation.org/ReleaseNotes/4.2#Writer&quot;&gt;https://wiki.documentfoundation.org/ReleaseNotes/4.2#Writer&lt;/a&gt; adresini ziyaret edebilirsiniz.&lt;/p&gt;
 &lt;p&gt;Buradan sevgili Ali Işıngör abimize sürekli katkı ve desteği için bir kez daha teşekkür ediyorum.&lt;/p&gt;
-&lt;p&gt;Mutlu günler.&lt;/p&gt;
-&lt;div class=&quot;yarpp-related-rss&quot;&gt;
-&lt;p&gt;İlgili Diğer Başlıklar:&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;http://blog.bluzz.net/libreoffice-ile-doldurulabilir-pdf-form-belgeleri-olusturmak/&quot; rel=&quot;bookmark&quot; title=&quot;LibreOffice ile doldurulabilir PDF form belgeleri oluşturmak&quot;&gt;LibreOffice ile doldurulabilir PDF form belgeleri oluşturmak&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://blog.bluzz.net/libreoffice-ile-on-sayfakapak-olusturmak-ve-numaralandirmak/&quot; rel=&quot;bookmark&quot; title=&quot;LibreOffice ile Ön Sayfa(Kapak) oluşturmak ve numaralandırmak&quot;&gt;LibreOffice ile Ön Sayfa(Kapak) oluşturmak ve numaralandırmak&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://blog.bluzz.net/libreoffice-yardim-icerigi-artik-cevrimici/&quot; rel=&quot;bookmark&quot; title=&quot;LibreOffice Yardım içeriği artık çevrimiçi!&quot;&gt;LibreOffice Yardım içeriği artık çevrimiçi!&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/p&gt;
-&lt;/div&gt;</content:encoded>
+&lt;p&gt;Mutlu günler.&lt;/p&gt;</content:encoded>
 	<dc:date>2013-12-07T16:38:47+00:00</dc:date>
 </item>
 
